@@ -1,2 +1,8 @@
 # Pos-Facturacion-electronica
-Sistema por con facturación electrónica
+Sistema pos con facturación electrónica
+
+php, mysql, Bootstrap, JavaScript, otros
+
+
+
+By Mathyas Coronado
